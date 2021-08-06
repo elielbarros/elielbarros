@@ -20,7 +20,7 @@
   <img align="center" alt="VUE" height="30" width="80" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="eliel" src="https://discord.com/channels/700440519897251942/705544748286607433/873005783594438746/giphy.gif">
+  <img align="center" alt="eliel" src="https://github.com/elielbarros/elielbarros/blob/master/output_8SHQUy.gif">
 </div>
   
   ##
