@@ -1,10 +1,10 @@
 ### Hello World 👋 I'm Eliel Barros
 
-- 🔭 I’m currently working on front-end and back-end
-- 🌱 I’m currently learning Vue.JS
+- 🔭 I’m currently working on back-end
+- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me: elielbarros.silva@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love games.
+- ⚡ Fun fact: I like games 🖥 🎮, series and films 📺, run 🏃 and ride a bike 🚴‍♂️, sushi 🍣 and hamburguer 🍔
 
 <div>
   <a href="https://github.com/elielbarros">
